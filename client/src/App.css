@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+body{
+  background-image: url("apple 4.jpg");
+ background-repeat: no-repeat, repeat;
+ background-size: cover;
+}
+
+ul{
+  text-align: center;
+
+}
+
+li{
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+li:hover{
+  color: white;
+  background-color: grey;
+  box-shadow: 0 0 10px #2196f3;
+  text-align: center;
+}
+
+.head{
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 8px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+} 
+
+
+

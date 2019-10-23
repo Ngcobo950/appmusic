@@ -1,0 +1,51 @@
+*8*9-// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`We pass the test!! 1`] = `
+Array [
+  <div
+    class="head"
+  >
+    <h1>
+      APPLE SOUNDS & BOOKS STORE
+    </h1>
+  </div>,
+  <div>
+    <nav>
+      <ul>
+        <li>
+          <a
+            href="#/"
+            onClick={[Function]}
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            href="#/Music"
+            onClick={[Function]}
+          >
+            Music
+          </a>
+        </li>
+        <li>
+          <a
+            href="#/Books"
+            onClick={[Function]}
+          >
+            Books
+          </a>
+        </li>
+        <li>
+          <a
+            href="#/Favorite"
+            onClick={[Function]}
+          >
+            Favorites
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>,
+]
+`;
